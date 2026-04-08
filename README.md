@@ -1,0 +1,2 @@
+# tripbuddy
+static travel website
